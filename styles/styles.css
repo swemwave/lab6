@@ -53,6 +53,11 @@ footer p {
   text-align: center;
 }
 
+footer p a {
+  font-size: 16px; /* Makes the link larger */
+  color: lime; /* Adds visibility */
+}
+
 /* layout */
 main {
   padding: 24px;
